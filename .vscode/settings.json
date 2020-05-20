@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.ipynb_checkpoints":true
+    },
+    "python.pythonPath": "D:\\ProgramData\\anaconda3\\python.exe",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=92c1ff1cec009269cda6e9a8628509777ac1f2df8a95f625",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName",
+    },
+}

@@ -1,0 +1,19 @@
+# Requirements dataset
+
+https://zenodo.org/record/1414117#.XsSSTmgzaMr
+
+
+# POS Tagger library
+
+https://github.com/explosion/spaCy
+https://spacy.io
+https://www.nltk.org/data.html
+
+# Comparing POS Taggers
+
+https://elitedatascience.com/python-nlp-libraries
+https://spacy.io/usage/facts-figures#benchmarks
+
+# NLP in python guide
+
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
